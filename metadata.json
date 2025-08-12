@@ -4,13 +4,13 @@
   "image": "",
   "properties": {
     "package_name": "foo",
-    "current_version": "1",
+    "current_version": "0.1",
     "publisher": "para.os",
     "mirrors": [
       "para.os"
     ],
     "code_hashes": {
-      "1": "19c587431c3d5ec41093f36aac8871d9d0f5bf906efb50ab53800fc070ed12e2"
+      "0.1": "19c587431c3d5ec41093f36aac8871d9d0f5bf906efb50ab53800fc070ed12e2"
     },
     "wit_version": 0,
     "dependencies": []
