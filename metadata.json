@@ -4,6 +4,7 @@
   "image": "",
   "properties": {
     "package_name": "foo",
+    "current_version": "0.1.0",
     "publisher": "para.os",
     "mirrors": [
       "para.os"
