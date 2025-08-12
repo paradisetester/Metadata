@@ -1,17 +1,16 @@
 {
-    "name": "foo",
-    "description": "",
-    "image": "",
-    "properties": {
-        "package_name": "foo",
-        "publisher": "para.os",
-        "mirrors": [
-            "para.os"
-        ],
-
-        "wit_version": 0,
-        "dependencies": []
-    },
-    "external_url": "",
-    "animation_url": ""
+  "name": "foo",
+  "description": "",
+  "image": "",
+  "properties": {
+    "package_name": "foo",
+    "publisher": "para.os",
+    "mirrors": [
+      "para.os"
+    ],
+    "wit_version": 0,
+    "dependencies": []
+  },
+  "external_url": "",
+  "animation_url": ""
 }
