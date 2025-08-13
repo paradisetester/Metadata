@@ -1,20 +1,21 @@
 {
   "name": "foo",
-  "description": "",
-  "image": "",
+  "description": "CLI toolkit to make development on Hyperwave ergonomic.",
+  "image": "https://example.com/images/kit.png",
   "properties": {
     "package_name": "foo",
-    "current_version": "0.1.1",
+    "current_version": "1.0.0",
     "publisher": "para.os",
     "mirrors": [
-      "para.os"
+      "https://mirror1.para.os/kit",
+      "https://mirror2.para.os/kit"
     ],
     "code_hashes": {
-      "0.1.1": "19c587431c3d5ec41093f36aac8871d9d0f5bf906efb50ab53800fc070ed12e2"
+      "1.0.0": "abcdef1234567890abcdef1234567890abcdef1234567890abcdef1234567890"
     },
-    "wit_version": 0,
+    "wit_version": 1,
     "dependencies": []
   },
-  "external_url": "",
+  "external_url": "https://para.os/kit",
   "animation_url": ""
 }
